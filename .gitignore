@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Blender
+*.blend
+*.blend1
+*.blend2
+*.blend@
+
+# Модели и печать
+*.stl
+*.obj
+*.3mf
+*.ctb
+*.gcode
+
+# Архивы и окружения
+*.zip
+.venv/
+venv/
+env/
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
